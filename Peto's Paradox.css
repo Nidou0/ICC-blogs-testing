@@ -34897,7 +34897,7 @@ table {
 }
 
 .fusion-text {
-    --awb-content-alignment: initial;
+    --awb-content-alignment: justify;
     --awb-font-size: inherit;
     --awb-line-height: inherit;
     --awb-letter-spacing: inherit;
